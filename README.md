@@ -10,9 +10,9 @@ Phase 1.0
 
 2. Stored the Python - Raspberry Pi data into Google Firebase through Python API's
 
-3. Collected Data from Firebase and Displayed it in Unity Mobile Application
+3. Collected Data from Firebase and Displayed it in a Unity Mobile Application
 
-4. Displayed that Data on your Static IP Address from Firebase. 
+4. Displayed Data on a Static IP Address from Firebase. 
 
 
 Phase 2.0
