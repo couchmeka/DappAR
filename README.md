@@ -1,5 +1,5 @@
 <b> Title: </b> This is a Blockchain-Enabled Sensor Framework that uses Augmented Reality and Artificial Intelligence. <br>
-<b> Sample Project: </b> Planter AI was created to inspire you while offering additional source code plus notes. <br>
+<b> Sample Project: </b> Planter AI was created to inspire you while offering additional source code + notes. <br>
 <b> Compatibility: </b> This framework can use any 3rd party Analogue or Digital Sensor that's compatible with Ardunio. <br>
 <b>This Repo is 1 of 2 phases. </b> The next phase will publish around Oct 01 2021.
 
