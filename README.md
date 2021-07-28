@@ -17,7 +17,7 @@ Phase 1.0
 
 Phase 2.0
 
-{Subject : Mobile Apps Development & Uploading them on snapcraft.io, The App Store, and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will reveal all source code + notes around Oct 01 2021
+{Subject : Mobile Apps Development & Uploading them on snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will reveal all source code + notes around Oct 01 2021
 
 
 ![Planter AI](https://user-images.githubusercontent.com/84645766/125811474-1023654b-80fd-4156-818d-781ae6b9e2f1.png)
