@@ -1,7 +1,5 @@
+![DappARTimeline](https://user-images.githubusercontent.com/53659320/127799556-c8d8adce-a93a-4451-9fe0-9d41570496d4.png)
 
-
-
-![DappARTimeline](https://user-images.githubusercontent.com/53659320/127798705-4046a115-50d4-4ba1-8d85-bd41a23a4771.png)
 
 
 
