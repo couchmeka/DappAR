@@ -22,7 +22,9 @@ Phase 1.0
 4. Displayed Data on a Static IP Address from Firebase. 
 
 
-![Steps](https://user-images.githubusercontent.com/53659320/127798789-99eb8d2b-dba0-465c-8c16-bd34c2773a51.png)
+
+![Planter AI](https://user-images.githubusercontent.com/84645766/125811474-1023654b-80fd-4156-818d-781ae6b9e2f1.png)
+
 
 
 
@@ -31,4 +33,4 @@ Phase 2.0
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will release all assests, source code + notes around Oct 01 2021
 
 
-![Planter AI](https://user-images.githubusercontent.com/84645766/125811474-1023654b-80fd-4156-818d-781ae6b9e2f1.png)
+![Steps](https://user-images.githubusercontent.com/53659320/127798789-99eb8d2b-dba0-465c-8c16-bd34c2773a51.png)
