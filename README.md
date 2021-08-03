@@ -21,6 +21,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 4. Click "Fork"
 5. Click "Star"
 6. Join our Discord https://discord.com/invite/7h273C8N
+7. Follow us on Twitter https://twitter.com/dapp_AR and @mention us for a reshare!
 
 
 ![Steps](https://user-images.githubusercontent.com/21232416/128091767-82950aad-ea8f-43e2-ad70-6ff6ac5f4330.png)
