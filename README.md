@@ -27,7 +27,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 
 
 
-<h3><b>P1 - Phase 1</h3></b><br>
+<h2><b><i>P1 - Phase 1</h2></b><i/><br>
 Phase 1.0
 
 1. We've Developed a Sensor Application (Python - Raspberry Pi - Arduino)
@@ -44,7 +44,7 @@ Phase 1.0
 
 <br>
 <br>
-<h3><b>P2 - AWS + HyperLedger </h3></b><br>
+ <h2><b><i>P2 - AWS + HyperLedger </i></h2></b><br>
 Phase 2.0
 
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will release all assets, source code + notes around Oct 01 2021
@@ -53,7 +53,7 @@ Phase 2.0
 
 <br>
 <br>
-<h3><b>P3 - Azure + User Management + Scalability </h3></b><br>
+ <h2><i><b>P3 - Azure + User Management + Scalability </h2></i></b><br>
  Phase 3.0
  
  ![Route3](https://user-images.githubusercontent.com/21232416/128087342-38a0a6d1-ae63-4006-8fc2-5b4696f3b453.png)
