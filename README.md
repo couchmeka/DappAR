@@ -41,7 +41,8 @@ Phase 1.0
 4. Displayed Data on a Static IP Address from Firebase. 
 
 
-![Route1](https://user-images.githubusercontent.com/21232416/128071368-78808cb6-efe2-45be-b4f7-d42bbd107b86.png)
+![Route1](https://user-images.githubusercontent.com/21232416/128073048-85c368e7-3e97-43a5-a69c-4d06db8c4647.png)
+
 
 <br>
 <br>
