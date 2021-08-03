@@ -26,7 +26,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 
 ![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
 
-  <br> <i><h3> Arduino + Raspberry Pi + Unity3d + Cloud + Hyperledger + Robotic Response </i></h3>
+ 
 
 
 <h3><b>P1 - Phase 1</h3></b><br>
