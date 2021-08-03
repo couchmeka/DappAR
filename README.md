@@ -15,7 +15,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 4. Click "Star"
 
 
-![Steps](https://user-images.githubusercontent.com/53659320/127798789-99eb8d2b-dba0-465c-8c16-bd34c2773a51.png)
+![Stepspurple](https://user-images.githubusercontent.com/21232416/128039335-35ee1982-f9ac-4dd9-a429-ee1856beccea.png)
 
 
 <br>
