@@ -5,7 +5,7 @@
 ![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
 
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
-This project was built to help developers create extended realities that communicate with Arduino and requires the security of blockchain decentralization.
+This project was built to help developers create extended realities that communicate with Arduino and require the security of blockchain decentralization.
 <br>
  (\__/)<br>
  (=' .')<br>
