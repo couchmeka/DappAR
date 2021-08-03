@@ -7,6 +7,10 @@
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
 This project was built to help developers create extended realities that need to communicate with Arduino and needs the security of blockchain decentralization.
 <br>
+ (\__/)<br>
+ (=' .')<br>
+o(_(")(")<br>
+<br>
 <br>
 <h2><i> Instructions </i></h2>
 
@@ -21,29 +25,6 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 ![Stepspurple](https://user-images.githubusercontent.com/21232416/128039335-35ee1982-f9ac-4dd9-a429-ee1856beccea.png)
 
 
-<br>
-<h2> Project Timeline </h2>
-<h3>Pre-Release July 2021 <b>::PROJECT COMPLETE::</b></h3>
-
-<h3>AWS + Hyperledger October 2021 <b>**Pending**</b></h3>
-
-<h3> Azure + User Management + Scalability **######** </h3> 
-
-<h3> Robotics Response  **#####** </h3>
-
-<h3> DappAR Labs </h3>
-
-<br>
- (\__/)<br>
- (=' .')<br>
-o(_(")(")<br>
-
-
-
-
-![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
-
- 
 
 
 <h3><b>P1 - Phase 1</h3></b><br>
@@ -83,5 +64,12 @@ Phase 2.0
  
 
 
+<br>
+<h2> Project Timeline </h2>
+
+
+
+
+![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
 
 
