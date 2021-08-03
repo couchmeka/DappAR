@@ -1,7 +1,7 @@
 
 
 <h1> Blockchain-Enabled IoT Sensor Framework that uses Augmented Reality and Artificial Intelligence. </h1>
-<h2> Unity3d + Arduino + Cloud + Hyperledger </h2>
+<h2> Ardunio + Unity3D + Cloud + Hyperledger </h2>
 <br>
 <br>
 <h2><i> Instructions </i></h2>
