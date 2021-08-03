@@ -15,7 +15,7 @@ o(_(")(")<br>
 <h2><i> Instructions </i></h2>
 
 Connect Sensors to Unity3D with the DappAR opensource framework.
-1. Confirm dependencies and parts list https://dappar.io/sample-project/
+1. Confirm dependencies and parts list https://dappar.io/sample-project
 2. Sign in to your Github account
 3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
 4. Click "Fork"
