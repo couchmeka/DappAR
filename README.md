@@ -20,7 +20,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
 4. Click "Fork"
 5. Click "Star"
-6. Join our discord https://discord.com/invite/7h273c8n
+6. Join our discord https://discord.com/invite/7h273C8N
 
 
 ![Stepspurple](https://user-images.githubusercontent.com/21232416/128039335-35ee1982-f9ac-4dd9-a429-ee1856beccea.png)
