@@ -73,6 +73,6 @@ Phase 2.0
 
 
 
-![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
+![DappARTimeline](https://user-images.githubusercontent.com/21232416/128092193-f2caf33f-be77-474e-bfe2-bc2df0df442a.png)
 
 
