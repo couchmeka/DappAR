@@ -20,19 +20,13 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 
 <br>
 <h2> Project Timeline </h2>
+  <br> <i><h3> Arduino + Raspberry Pi + Unity3d + Cloud + Hyperledger + Robotic Response </i></h3>
 
 
 
-![DappARTimeline](https://user-images.githubusercontent.com/53659320/127799556-c8d8adce-a93a-4451-9fe0-9d41570496d4.png)
+![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
 
-
-
-<br>
-<b> Sample Project: </b> Planter AI was created to inspire you while offering additional source code + notes. <br>
-<b> Compatibility: </b> This framework can use any 3rd party Analogue or Digital Sensor that's compatible with Ardunio. <br>
-<b>This Repo is 1 of 2 phases. </b> The next phase will publish around Oct 01 2021.
-
-
+<h3><b><i>P1 - Phase 1</i></h3></b><br>
 Phase 1.0
 
 1. We've Developed a Sensor Application (Python - Raspberry Pi - Arduino)
@@ -44,15 +38,20 @@ Phase 1.0
 4. Displayed Data on a Static IP Address from Firebase. 
 
 
-
 ![Planter AI](https://user-images.githubusercontent.com/84645766/125811474-1023654b-80fd-4156-818d-781ae6b9e2f1.png)
-
-
-
-
+<br>
+<br>
+<h3><b><i>P2 - Phase 2</i></h3></b><br>
 Phase 2.0
 
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will release all assests, source code + notes around Oct 01 2021
+
+<br>
+<br>
+<h3><b><i>P3 - Phase 3</i></h3></b><br>
+<br>
+<br>
+<h3><b>P4 - <i>Phase 4</i></h3></b><br>
 
 
 
