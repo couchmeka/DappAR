@@ -2,7 +2,7 @@
 
 <h1> Blockchain-Enabled Smart Sensor Framework using Augmented Reality. </h1><h3><i>Extended Realities for IoT </i></h3>
 
-![universe-1566161_1280](https://user-images.githubusercontent.com/21232416/128043502-31b17974-49ca-41d9-b9d9-18947f388df3.jpg)
+![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
 
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
 <marquee behavior="scroll" direction="left"> Readme Under Construction </marquee>
@@ -23,11 +23,11 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 
 <br>
 <h2> Project Timeline </h2>
-  <br> <i><h3> Arduino + Raspberry Pi + Unity3d + Cloud + Hyperledger + Robotic Response </i></h3>
-
-
 
 ![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
+
+  <br> <i><h3> Arduino + Raspberry Pi + Unity3d + Cloud + Hyperledger + Robotic Response </i></h3>
+
 
 <h3><b><i>P1 - Phase 1</i></h3></b><br>
 Phase 1.0
