@@ -23,13 +23,22 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 
 <br>
 <h2> Project Timeline </h2>
-<h3>Pre-Release July 2021 <b>PROJECT COMPLETE</b></h3>
+<h3>Pre-Release July 2021 <b>::PROJECT COMPLETE::</b></h3>
 
-<h3>P2 October 2021 <b>Pending</b></h3>
+<h3>AWS + Hyperledger October 2021 <b>**Pending**</b></h3>
 
-<hs> P3 
+<h3> Azure + User Management + Scalability **######** </h3> 
 
-Includes Arduino to RaspberryPi connection to Unity3d for sensor value display. Publish using Firebase
+<h3> Robotics Response  **#####** </h3>
+
+<h3> DappAR Labs </h3>
+
+<br>
+ (\__/)<br>
+ (=' .')<br>
+o(_(")(")<br>
+
+
 
 
 ![DappARTimeline-purple](https://user-images.githubusercontent.com/21232416/128039490-74497202-bdcf-4a35-8f90-723b494de3e9.png)
