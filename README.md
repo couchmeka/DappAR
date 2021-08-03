@@ -58,7 +58,7 @@ Phase 2.0
  Phase 3.0
  Phase 3 will roll out the private repo for developers who want to publish an app without the source code being public. It will also include user management for multiple arduino boards and the use of Azure for cloud services. 
  
- ![Route3](https://user-images.githubusercontent.com/21232416/128087342-38a0a6d1-ae63-4006-8fc2-5b4696f3b453.png)
+
 
 <br>
 <br>
