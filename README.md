@@ -1,6 +1,9 @@
 
 
-<h1> Blockchain-Enabled IoT Sensor Framework that uses Augmented Reality and Artificial Intelligence. </h1>
+<h1> Blockchain-Enabled Smart Sensor Framework using Augmented Reality. </h1>
+
+![universe-1566161_1280](https://user-images.githubusercontent.com/21232416/128043502-31b17974-49ca-41d9-b9d9-18947f388df3.jpg)
+
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
 <marquee behavior="scroll" direction="left"> Readme Under Construction </marquee>
 <br>
