@@ -5,7 +5,7 @@
 ![wire-rack-1311162_1280](https://user-images.githubusercontent.com/21232416/128045442-877ba8f7-c6fd-4186-a07d-124f3e744706.jpg)
 
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
-This project was built to help developers create extended realities that need to communicate with Arduino and requires the security of blockchain decentralization.
+This project was built to help developers create extended realities that communicate with Arduino and requires the security of blockchain decentralization.
 <br>
  (\__/)<br>
  (=' .')<br>
@@ -14,9 +14,9 @@ o(_(")(")<br>
 <br>
 <h2><i> Instructions </i></h2>
 
-Connect #Sensors to #Unity with the DappAR #opensource framework.
-1. Confirm dependencies and part list https://dappar.io/sample-project/
-2. Sign in to your #Github account
+Connect Sensors to Unity3D with the DappAR opensource framework.
+1. Confirm dependencies and parts list https://dappar.io/sample-project/
+2. Sign in to your Github account
 3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
 4. Click "Fork"
 5. Click "Star"
@@ -48,7 +48,7 @@ Phase 1.0
  <h2><b><i>P2 - AWS + HyperLedger </i></h2></b><br>
 Phase 2.0
 
-{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com otherwise we will release all assets, source code + notes around Oct 01 2021
+{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around Oct 01 2021
 
 ![Route2](https://user-images.githubusercontent.com/21232416/128077122-1d21fcdb-ceea-4364-9868-481e9875f399.png)
 
@@ -56,7 +56,8 @@ Phase 2.0
 <br>
  <h2><i><b>P3 - Azure + User Management + Scalability </h2></i></b><br>
  Phase 3.0
- Phase 3 will roll out the private repo for developers who want to publish an app without the source code being public. It will also include user management for multiple arduino boards and the use of Azure for cloud services. 
+ 
+This phase will roll out the private repo for developers who want to publish an app without the source code being public. It will also include user management for multiple arduino boards and the use of Azure for cloud services. 
  
 ![Route3](https://user-images.githubusercontent.com/21232416/128091842-326f0935-0917-4f3d-9589-e0437e4c437a.png)
 
