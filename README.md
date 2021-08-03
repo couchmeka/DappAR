@@ -8,11 +8,11 @@
 <h2><i> Instructions </i></h2>
 
 Connect #Sensors to #Unity with the DappAR #opensource framework.
-
-1. Sign in to your #Github account
-2. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
-3. Click "Fork"
-4. Click "Star"
+1. Confirm dependencies and part list https://dappar.io/sample-project/
+2. Sign in to your #Github account
+3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
+4. Click "Fork"
+5. Click "Star"
 
 
 ![Stepspurple](https://user-images.githubusercontent.com/21232416/128039335-35ee1982-f9ac-4dd9-a429-ee1856beccea.png)
