@@ -20,7 +20,7 @@ Connect #Sensors to #Unity with the DappAR #opensource framework.
 3. Find DappAR on Github (https://lnkd.in/gBJ4-dd)
 4. Click "Fork"
 5. Click "Star"
-6. Join our discord https://discord.com/invite/7h273C8N
+6. Join our Discord https://discord.com/invite/7h273C8N
 
 
 ![Stepspurple](https://user-images.githubusercontent.com/21232416/128039335-35ee1982-f9ac-4dd9-a429-ee1856beccea.png)
@@ -56,6 +56,7 @@ Phase 2.0
 <br>
  <h2><i><b>P3 - Azure + User Management + Scalability </h2></i></b><br>
  Phase 3.0
+ Phase 3 will roll out the private repo for developers who want to publish an app without the source code being public. It will also include user management for multiple arduino boards and the use of Azure for cloud services. 
  
  ![Route3](https://user-images.githubusercontent.com/21232416/128087342-38a0a6d1-ae63-4006-8fc2-5b4696f3b453.png)
 
