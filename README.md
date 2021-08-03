@@ -5,7 +5,8 @@
 
 
 
-<b> Title: </b> This is a Blockchain-Enabled Sensor Framework that uses Augmented Reality and Artificial Intelligence. <br>
+<h1> Blockchain-Enabled Sensor Framework that uses Augmented Reality and Artificial Intelligence. </h1>
+<h2> Unity3d + Arduino + Cloud + Hyperledger </h2>
 <b> Sample Project: </b> Planter AI was created to inspire you while offering additional source code + notes. <br>
 <b> Compatibility: </b> This framework can use any 3rd party Analogue or Digital Sensor that's compatible with Ardunio. <br>
 <b>This Repo is 1 of 2 phases. </b> The next phase will publish around Oct 01 2021.
@@ -13,7 +14,7 @@
 
 Phase 1.0
 
-1. We've Developed a Sensor Reading Application (Python - Raspberry Pi)
+1. We've Developed a Sensor Application (Python - Raspberry Pi - Arduino)
 
 2. Stored the Python - Raspberry Pi data into Google Firebase through Python API's
 
