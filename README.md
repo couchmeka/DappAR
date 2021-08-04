@@ -8,6 +8,8 @@
 <h2> Arduino + Raspberry Pi + Unity3D + Cloud + Hyperledger </h2>
 This project was built to help developers create extended realities that communicate with Arduino and require the security of blockchain decentralization.
 <br>
+<br>
+<br>
  (\__/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     /)__/) <br>
  (=' .') / COLLABORATION \ ('. '=) <br>
 o(_(")(") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ((")(")_)o <br>              
