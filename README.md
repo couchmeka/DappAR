@@ -59,7 +59,7 @@ Phase 2.0
 
 <br>
 <br>
- <h2><i><b>P3 - Azure + User Management + Scalability </h2></i></b><br>
+ <h2><i><b>P3 - Azure + Hyperledger + User Management + Scalability </h2></i></b><br>
  Phase 3.0
  
 This phase will roll out our private repo for developers and enterprise customers who want to publish an app without the source code being public. It will also include user management for multiple arduino compatible boards and the use of Azure + Hyperledger. 
