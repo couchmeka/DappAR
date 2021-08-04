@@ -14,7 +14,6 @@ This project was built to help developers create extended realities that communi
  (=' .') / COLLABORATION \ ('. '=) <br>
 o(_(")(") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ((")(")_)o <br> 
 
-![](https://komarev.com/ghpvc/?username=wolfberryllc&color=green)
 
 <br>
 <br>
@@ -84,5 +83,7 @@ This phase will roll out our private repo for developers and enterprise customer
 
 
 ![DappARTimeline](https://user-images.githubusercontent.com/21232416/128092193-f2caf33f-be77-474e-bfe2-bc2df0df442a.png)
+
+![](https://komarev.com/ghpvc/?username=wolfberryllc&color=green)
 
 
