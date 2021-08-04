@@ -50,7 +50,7 @@ Phase 1.0
 
 <br>
 <br>
- <h2><b><i>P2 - AWS + HyperLedger </i></h2></b><br>
+ <h2><b><i>P2 - AWS + HyperLedger + Starter Project </i></h2></b><br>
 Phase 2.0
 
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around Oct 01 2021
