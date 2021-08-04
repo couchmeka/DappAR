@@ -34,9 +34,9 @@ Connect Sensors to Unity3D with the DappAR opensource framework.
 <h2><b><i>P1 - Phase 1</h2></b><i/><br>
 Phase 1.0
 
-1. We've Developed a Sensor Application (Python - Raspberry Pi - Arduino)
+1. We've Developed a Sensor Application (Python + Raspberry Pi + Arduino)
 
-2. Stored the Python - Raspberry Pi data into Google Firebase through Python API's
+2. Stored the Python + Raspberry Pi data into Google Firebase through Python API's
 
 3. Collected Data from Firebase and Displayed it in a Unity Mobile Application
 
@@ -51,7 +51,7 @@ Phase 1.0
  <h2><b><i>P2 - AWS + HyperLedger </i></h2></b><br>
 Phase 2.0
 
-{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & BlockChain} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around Oct 01 2021
+{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around Oct 01 2021
 
 ![Route2](https://user-images.githubusercontent.com/21232416/128077122-1d21fcdb-ceea-4364-9868-481e9875f399.png)
 
@@ -60,7 +60,7 @@ Phase 2.0
  <h2><i><b>P3 - Azure + User Management + Scalability </h2></i></b><br>
  Phase 3.0
  
-This phase will roll out the private repo for developers who want to publish an app without the source code being public. It will also include user management for multiple arduino boards and the use of Azure for cloud services. 
+This phase will roll out our private repo for developers and enterprise customers who want to publish an app without the source code being public. It will also include user management for multiple arduino compatible boards and the use of Azure + Hyperledger. 
  
 ![Route3](https://user-images.githubusercontent.com/21232416/128091842-326f0935-0917-4f3d-9589-e0437e4c437a.png)
 
