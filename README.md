@@ -9,11 +9,13 @@
 This project was built to help developers create extended realities that communicate with Arduino and require the security of blockchain decentralization.
 <br>
  (\__/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     /)__/) <br>
- (=' .') /COLLABORATION \ ('. '=) <br>
+ (=' .') / COLLABORATION \ ('. '=) <br>
 o(_(")(") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ((")("))o <br>              
 <br>
 <br>
 <h2><i> Instructions </i></h2>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/21232416/128106988-1b5dd77d-e833-405e-946c-c0c085dc2b30.gif)
 
 Connect Sensors to Unity3D with the DappAR opensource framework.
 1. Confirm dependencies and parts list https://dappar.io/sample-project
