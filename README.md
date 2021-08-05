@@ -35,7 +35,7 @@ Connect Sensors to Unity3D with the DappAR opensource framework.
 
 
 
-<h2><b><i>P1 - Starter Project + Firebase + Google Cloud </h2></b></i><br>
+<h2><b><i>P1 - Starter Project + Firebase + Google Cloud :white_check_mark:</h2></b></i><br>
 Phase 1.0 - Complete and available now.
 
 1. We've Developed a Sensor Application (Python + Raspberry Pi + Arduino)
